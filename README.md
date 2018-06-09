@@ -12,7 +12,7 @@ A client library to connect to Dash Core RPC in JavaScript.
 bitcoind-rpc-dash.js runs on [node](http://nodejs.org/), and can be installed via [npm](https://npmjs.org/):
 
 ```bash
-npm install bitcoind-rpc-dash
+npm install @flus38765/aither-rpc
 ```
 
 ## RpcClient
